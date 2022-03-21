@@ -1,0 +1,10 @@
+server.port=
+server.servlet.context-path=/directory-api
+app.version=@project.version@
+app.name=@project.name@
+
+spring.h2.console.enabled=true
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+spring.datasource.driver-class-name=org.hsqldb.jdbcDriver
