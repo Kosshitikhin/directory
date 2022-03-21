@@ -30,5 +30,5 @@ name - полное наименование региона, shortName - сок�
    * DELETE http://localhost:8081/directory-api/entries/{entryId} - удаление записи по id;
 
 
-**Примечание**
+**Примечание:**
 Скопируйте файл /src/main/resources/application.properties.example в /src/main/resources/application.properties и заполните файл своими свойствами
